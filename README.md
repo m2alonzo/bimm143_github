@@ -9,4 +9,4 @@ Class 04 [R Fundementals](class04/class04.pdf)
 
 Class 05 [Data Viz with ggplot](Class05/Class05.pdf)
 
-Class 06
+Class 06 etc.
